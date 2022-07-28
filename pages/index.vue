@@ -7,6 +7,7 @@
       </h1>
       <h2 class='text-center'>
         Create simple, beautiful, and elegant website.
+        </br>Lets create something beautiful together 😊
       </h2>
       
     </div>
